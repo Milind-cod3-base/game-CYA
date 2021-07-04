@@ -2,9 +2,6 @@
 
 import time
 
-#mh = 5        #ye sabse end me assign karna hai. kyunki decisions ke hisab se range badhani padegi. 0 to 10 me kaam ni chalega. LOS GEHTS!
-#ph = 5      #assigning both mental and physical health mid points.      #in iteration 2, set lower end of one health as or something. as it will be unfair to have 10 ph and 0 mh and still win.
-
 yes = ['Y','y']
 no = ['N','n']
 
