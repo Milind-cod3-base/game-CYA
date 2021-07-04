@@ -1,5 +1,5 @@
 # Greetings from the author -
-Welcome to a text based 'CHOOSE YOUR ADVENTURE' game. 
+Welcome to a text based 'CHOOSE YOUR OWN ADVENTURE' game. 
 
 Written in Python, this game begins with you, as a player, waking up and making multiple choices throughtout the day.
 Each choice will have its own consequence, so be smart and choose them wisely. 
