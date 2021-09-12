@@ -179,28 +179,27 @@ def timemachine():
          time.sleep(1)
          print('\nSending you back to bed')
          time.sleep(1)
-         print('\n3')
-         time.sleep(1)
-         print('2')
-         time.sleep(1)
-         print('1')
-         time.sleep(1)
+         c=3
+         while c>0:
+             print(c)
+             c=c-1
+             time.sleep(1)
+             
          print('\nWOOOOOOSH!!!')
          
          awake()
+     
      elif tm in no:
          print('\nMachine initialising')
          time.sleep(1)
          print('\nSending you back in time')
          time.sleep(1)
-         print('\n3')
-         time.sleep(1)
-         print('2')
-         time.sleep(1)
-         print('1')
-         time.sleep(1)
-         print('\nWOOOOOOSH!!!')
-         time.sleep(1)
+         c=3
+         while c>0:
+             print(c)
+             c=c-1
+             time.sleep(1)
+         print('\nWHOOOOOSH!')
          extro()
      else:
         god()
